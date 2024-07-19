@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Battle.net
+Comment=
+Exec=flatpak run --command=bottles-cli com.usebottles.bottles run -b Battle.net -p Battle.net
+Icon=1AC2_Battle.net Launcher.0
+Path=
+Terminal=false
+StartupNotify=false

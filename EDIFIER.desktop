@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=EDIFIER
+Comment=
+Exec=./EDIFIER.sh
+Icon=audio-headphones
+Path=/home/nasko/Code/Bash
+Terminal=false
+StartupNotify=false
