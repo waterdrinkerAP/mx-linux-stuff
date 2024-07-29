@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cast
+Comment=
+Exec=./cast-to-eon.sh
+Icon=mkchromecast
+Path=/home/nasko/Code/Bash
+Terminal=false
+StartupNotify=false
