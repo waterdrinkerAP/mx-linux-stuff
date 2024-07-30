@@ -5,6 +5,6 @@ Name=EDIFIER
 Comment=
 Exec=./EDIFIER.sh
 Icon=audio-headphones
-Path=/home/nasko/Code/Bash
+Path=/home/nasko/Code/git-repos/mx-linux-stuff/
 Terminal=false
 StartupNotify=false

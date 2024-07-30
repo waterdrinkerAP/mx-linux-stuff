@@ -5,6 +5,6 @@ Name=Cast
 Comment=
 Exec=./cast-to-eon.sh
 Icon=mkchromecast
-Path=/home/nasko/Code/Bash
+Path=/home/nasko/Code/git-repos/mx-linux-stuff/
 Terminal=false
 StartupNotify=false
